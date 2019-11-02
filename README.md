@@ -12,10 +12,10 @@
   <li>DLL</li>
 </ul>
 
-<b>Cara Install: </b>
+<b>Cara Install: </b> 
 
-$ git clone https://github.com/h4ck3r321/gcospam.git
-$ cd gcospam
-$ chmod +x *
-$ ./install.sh
-$ ./gch.sh
+$ git clone https://github.com/h4ck3r321/gcospam.git <br>
+$ cd gcospam <br>
+$ chmod +x * <br>
+$ ./install.sh <br>
+$ ./gch.sh <br>
